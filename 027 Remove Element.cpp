@@ -1,4 +1,4 @@
-
+#include "header.h"
 //https://leetcode.com/problems/remove-element/
 class Solution {
 public:

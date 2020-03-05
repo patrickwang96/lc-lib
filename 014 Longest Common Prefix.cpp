@@ -1,4 +1,4 @@
-
+#include "header.h"
 // https://leetcode.com/problems/longest-common-prefix/
 class Solution {
 public:
