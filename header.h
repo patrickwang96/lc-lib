@@ -1,13 +1,5 @@
 
-#include <vector>
-#include <iostream>
-#include <algorithm>
-#include <unordered_map>
-#include <string>
-#include <math.h>
-#include <stack>
-#include <queue>
-
+#include "bits/stdc++.h"
 
 using namespace std;
 
