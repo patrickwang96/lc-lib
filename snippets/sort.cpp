@@ -51,7 +51,6 @@ void insertion_sort(vector<T>& v) {
 
 template <typename T>
 void quick_sort(vector<t>& v) {
-    
 }
 
 int main() {
