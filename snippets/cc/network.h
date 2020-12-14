@@ -15,10 +15,9 @@
 #include <cstdio>
 #include <cstring>
 
-#define BACKLOG 10
+#include "util.h"
 
-#define likely(x)      __builtin_expect(!!(x), 1)
-#define unlikely(x)    __builtin_expect(!!(x), 0)
+#define BACKLOG 10
 
 void *get_in_addr(struct sockaddr *sa) {
     if (sa->sa_family == AF_INET) {
